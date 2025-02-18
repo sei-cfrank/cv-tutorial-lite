@@ -1,0 +1,7 @@
+numpy
+opencv-python-headless  # headless version works better in JupyterLite
+onnx
+onnxruntime
+pillow
+matplotlib
+scipy
